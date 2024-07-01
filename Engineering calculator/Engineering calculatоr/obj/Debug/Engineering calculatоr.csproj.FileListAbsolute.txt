@@ -1,0 +1,5 @@
+C:\Users\zerro\source\repos\Engineering calculator\Engineering calculatоr\obj\Debug\Engineering calculatоr.csproj.AssemblyReference.cache
+C:\Users\zerro\source\repos\Engineering calculator\Engineering calculatоr\obj\Debug\CalculatorApp.Calculator.resources
+C:\Users\zerro\source\repos\Engineering calculator\Engineering calculatоr\obj\Debug\Engineering_calculatоr.Properties.Resources.resources
+C:\Users\zerro\source\repos\Engineering calculator\Engineering calculatоr\obj\Debug\Engineering calculatоr.csproj.GenerateResource.cache
+C:\Users\zerro\source\repos\Engineering calculator\Engineering calculatоr\obj\Debug\Engineering calculatоr.csproj.CoreCompileInputs.cache
